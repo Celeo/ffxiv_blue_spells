@@ -501,7 +501,7 @@
     "name": "Angel Whisper",
     "aspect": "None",
     "description": "Resurrects target to a weakened state.\nThis action does not share a recast timer with any other actions.",
-    "affinity": ["Damage"]
+    "affinity": ["Heal"]
   },
   {
     "number": 73,
