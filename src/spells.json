@@ -673,7 +673,7 @@
   },
   {
     "number": 97,
-    "name": "Hydo Pull",
+    "name": "Hydro Pull",
     "aspect": "Water",
     "description": "Deals water damage to all nearby enemies with a potency of 220 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Draw-in",
     "affinity": ["Damage"]
