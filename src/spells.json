@@ -487,7 +487,7 @@
     "name": "Cactguard",
     "aspect": "None",
     "description": "Reduces target party member's damage taken by 5%. Duration: 6s Increases damage reduction to 15% when you are under the effect of Aetherial Mimicry: Tank.",
-    "affinity": ["Tank"]
+    "affinity": ["Tank", "Heal"]
   },
   {
     "number": 71,
